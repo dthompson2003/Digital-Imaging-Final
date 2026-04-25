@@ -1,1 +1,7 @@
-# Data
+
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("tpapp157/earth-terrain-height-and-segmentation-map-images")
+
+print("Path to dataset files:", path)
