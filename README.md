@@ -13,7 +13,7 @@ For testing, follow the link in the testing instructions, and install the conten
 Run every cell (except second cell) up until and including the training cell with title:
 "Don't Run Unless you are trying to train the model"
 
-#To test the model
+# To test the model
 1. Run the first cell (clones repo and installs dependencies)
 2. Run the second cell (creates directory and copies the trained model over to the created directory. Also make  sure you have the trained model inside of your google drive with the same file path)
 3. Run the testing cell(Should be second to last cell. Labeled with ' Testing Run Cell')
