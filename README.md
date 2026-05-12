@@ -5,4 +5,5 @@ In particular, terrain generation is a significant problem in this area, as crea
 
 ---------------------------------------------------------------------------------------------------------------
 # Setup and Instructions
-Requires Google Colab with \textbf{GPU runtime enabled}.
+Requires Google Colab with GPU runtime enabled.
+
